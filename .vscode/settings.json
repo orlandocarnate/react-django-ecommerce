@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\orlan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.pythonPath": "myenv\\Scripts\\python.exe",
     "python.formatting.provider": "yapf"
 }
