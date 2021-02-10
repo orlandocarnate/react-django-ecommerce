@@ -5,7 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 * [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 * Used Bootswatch for the Bootstrap template
-* React Redux for state management.
+* Redux
+* React-Redux
+* Redux-thunk
+* redux-devtools-extensions
 
 ### Deployment
 
